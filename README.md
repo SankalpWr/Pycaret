@@ -8,5 +8,6 @@ Colab - Anomaly Detection - https://colab.research.google.com/drive/1Cb5hLmKeSgW
 
 Colab - Associated - https://colab.research.google.com/drive/1uJC2uRTVqyKpaE-1qTi7Cw2JnKL7Jk53?usp=sharing
 
+Colab - Time series - https://colab.research.google.com/drive/1R3I1EYsYICI4aQAor-J-mQIqD9YpQxk-?usp=sharing
 
 Video tutorials - https://loom.com/share/folder/b79adfd77f614bd2812479aab34a0bd5
