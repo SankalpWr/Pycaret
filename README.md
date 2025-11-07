@@ -7,3 +7,6 @@ Colab - Clustering - https://colab.research.google.com/drive/1JYtiEE44uUCs2EEUxW
 Colab - Anomaly Detection - https://colab.research.google.com/drive/1Cb5hLmKeSgWiPXH4LuZbgpgTA8IpS_sJ?usp=sharing
 
 Colab - Associated - https://colab.research.google.com/drive/1uJC2uRTVqyKpaE-1qTi7Cw2JnKL7Jk53?usp=sharing
+
+
+Video tutorials - https://loom.com/share/folder/b79adfd77f614bd2812479aab34a0bd5
